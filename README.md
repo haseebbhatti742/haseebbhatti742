@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haseebbhatti742
-- 👀 I’m interested in Full Stack MERN Development and Native Android (Java, Kotlin) Development
+- 👀 I’m interested in Full Stack MERN Development and Electron.js Development
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on MERN Stack development and Rest API.
 - 📫 How to reach me 
